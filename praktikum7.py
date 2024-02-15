@@ -1,4 +1,4 @@
-# Pastikan Anda telah menginstal modul tabulate
+# Pastikan kamu sudah menginstal modul tabulate
 from tabulate import tabulate
 
 
